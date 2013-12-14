@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="hu" itemscope itemtype="http://schema.org/Blog">
+	<head>
+		<meta charset="utf-8"/>
+		<title>Vízimajom[beta]</title>
+		<link rel="stylesheet" href="/css/style.css"/>
+		<link rel="alternate" type="application/atom+xml" href="atom.xml" title="Atom hírforrás">
+		<meta name="title" content="Teljes anonimitás bashben"/>
+		<meta name="description" content="Az utóbbi időben már zavaróan sokan érdeklődték tőlem, hogy mégis, hogy a francba lehet teljes anonimitást szerezni a bash felett, hiszen egyeseknek olyan jó, divatos móka lenne a DDoS, de a börtön ablakába nem süt be a nap."/>
+		<!--<link rel="image_src" href=""/>-->
+		<meta itemprop="name" content="Teljes anonimitás bashben"/>
+		<meta itemprop="description" content="Az utóbbi időben már zavaróan sokan érdeklődték tőlem, hogy mégis, hogy a francba lehet teljes anonimitást szerezni a bash felett, hiszen egyeseknek olyan jó, divatos móka lenne a DDoS, de a börtön ablakába nem süt be a nap."/>
+		<!--<meta itemprop="image" content=""/>-->
+	</head>
+	<body>
+		<!--[if lt IE 9]><p class="bongeszo">Szarul néz ki az oldal, eltaláltam? Gyakorlatilag a hányás kerülget tőle. Tisztázzuk azt, hogy ez azért van, mert vannak a böngészők és vannak a Internet Explorerek, te valószínűleg utóbbit használod. <a href="http://browsehappy.com/">Válts böngészőt, vagy frissíts egy újabb verzióra</a>, ha itt képzeled el a jövőd.</br>
+		Sok szerencsét, szia!</p><![endif]-->
+		<div id="tarolo">
+		<header>
+			<a href="http://vizimajom.github.io"><div class="fejlec"></div></a>
+		</header>
+		<nav>
+			<ul>
+				<li><a href="/">Főoldal</a></li>
+				<li><a href="/kapcsolat">Kapcsolat</a></li>
+				<li><a href="/gyik">FAQ</a></li>
+			</ul>
+		</nav>
+		<div class="clear"></div>
+
+		<div id="posttartalom">
+			<h2 class="postcim">Teljes anonimitás bashben</h2>
+			<p>Az utóbbi időben már zavaróan sokan érdeklődték tőlem, hogy mégis, hogy a francba lehet teljes anonimitást szerezni a bash felett, hiszen egyeseknek olyan jó, divatos móka lenne a DDoS, de a börtön ablakába nem süt be a nap.</br>
+Erre írok, akkor most éppenséggel megoldást, mert miért ne? Elég lesz innentől rálinkelni.
+Első körben a Tor és a Privoxy telepítését oldjuk meg, nem érdekel hogyan, ha ez nem megy, akkor meg sem érdemled a leírás további részét.
+</br></p>
+
+<!-- more -->
+
+
+<p>Na, ügyes vagy. Mivel idáig eljutottál, így követheted további útmutatásaimat, akár eredménnyel is. Az /etc/privoxy/config állomány mostmár csak a szerkesztésre vár.</p>
+
+<pre><code>sudo nano /etc/privoxy/config
+</code></pre>
+
+<p>Nagyszerű, egy halomnyi Page Down nyomogatás után elérjük a konfigurációs fájl legalját, ide tömjük be az alábbiakat:</p>
+
+<pre><code>forward-socks5 / 127.0.0.1:9050 .
+</code></pre>
+
+<p>Zseniális, már majdnem készen vagyunk, de azért még párat rá kell hányni a terminálra, mint például ezeket:</p>
+
+<pre><code>sudo service tor restart
+sudo service privoxy restart
+</code></pre>
+
+<p>Ezen parancsok sikeres leütése után mostmár nekiláthatunk terminálunk proxy-val való ellátásának, amely egy nagyon egyszerű folyamat:</p>
+
+<pre><code>export http_proxy='http://localhost:8118'
+export https_proxy='http://localhost:8118'
+</code></pre>
+
+<p>Már csak annyi van hátra, hogy leellenőrizzük munkánk gyümölcsét a következőképpen:</p>
+
+<pre><code>wget -qO- icanhazip.com
+</code></pre>
+
+<p>Amennyiben egy vadidegen IP címet látunk, nekieshetünk a duhajkodásnak.</p>
+
+		</div>
+		<footer>
+			&copy; 2005-2013 <a href="http://vizimajom.github.io">vizimajom.github.io</a>. Az oldal tartalmára a <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.hu" target="_blank">Creative Commons Nevezd meg! - Ne add el! - Ne változtasd! 4.0</a> licenc vonatkozik; egyes esetekben eltérhet. Az oldal tartalmainak tárolásáért a <a href="https://www.github.com" target="_blank">GitHub</a> felel.
+		</footer>
+		<!-- Yandex.Metrika counter -->
+		<script type="text/javascript">
+		(function (d, w, c) {
+			(w[c] = w[c] || []).push(function() {
+				try {
+					w.yaCounter23002783 = new Ya.Metrika({id:23002783,
+							webvisor:true,
+							clickmap:true,
+							trackLinks:true,
+							accurateTrackBounce:true});
+				} catch(e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+				s = d.createElement("script"),
+				f = function () { n.parentNode.insertBefore(s, n); };
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+			if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else { f(); }
+		})(document, window, "yandex_metrika_callbacks");
+		</script>
+		<!-- /Yandex.Metrika counter -->
+	</body>
+</html>
+

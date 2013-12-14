@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Vízimajom</title>
+	<link href="http://vizimajom.github.io/atom.xml" rel="self"/>
+	<link href="http://vizimajom.github.io/"/>
+	<updated>2013-12-14T15:40:54+00:00</updated>
+	<id>http://vizimajom.github.io/</id>
+	<author>
+		<name>XM</name>
+		<email>vizimajom@yandex.com</email>
+	</author>
+	
+	<entry>
+		<title>Nexus vs GPe</title>
+		<link href="http://vizimajom.github.io/tech/2013/12/04/nexus-vs-gpe/"/>
+		<updated>2013-12-04T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/tech/2013/12/04/nexus-vs-gpe</id>
+		<content type="html">&lt;p&gt;Előre tisztázom, hogy szerintem tök jó ötlet ez az egész GPe &lt;em&gt;(Google Play edition)&lt;/em&gt; vonal, amit létrehozott a Google a Nexusok mellé. Röviden: ezek nem Nexusok, de nagyon hasonlítanak rá, nem a Google-től kapod a frissítéseket, így kicsit késik a Nexusokhoz képest, de a Nexusokhoz hasonlóan tiszta Google user experience-t ad, nincsenek rajta gyártói módosítások.&lt;br/&gt;
+Azonban aki ismeri ezeket, az szinte biztos, hogy ismeri a Nexust is és itt jön a bökkenő.&lt;br/&gt;
+A Google Nexus 5 induló ára: 349 USD&lt;br/&gt;
+A HTC One induló ára: 599 USD&lt;br/&gt;
+A Samsung Galaxy S4 induló ára: 649 USD&lt;br/&gt;
+Közel azonos jellemzők és teljesítmény mellett. Ezek után nem értem mi visz rá valakit arra, hogy az utóbbi kettő közül válasszon, mikor a Nexustól többet kap, jobb ár-érték arányban. Nem hinném, hogy kiépült volna akkora márkafanatizmus a Samsung és a HTC mögé, hogy tömegesen azt válasszák a Nexus ellenében.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Új Moto dizájn</title>
+		<link href="http://vizimajom.github.io/tech/2013/11/22/uj-moto-dizajn/"/>
+		<updated>2013-11-22T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/tech/2013/11/22/uj-moto-dizajn</id>
+		<content type="html">&lt;p&gt;Röviden? Csalódás! Én régóta nagyon szeretem a Motorolát, mert egyszerűen van egy hangulata, a mobiltelefonok atyja, úgy álltam hozzá sokáig, mint a ThinkPadekhez. De az az új dizájnnyelvezet amit a Moto X-szel bevezettek a &lt;a href=&quot;http://i.imgur.com/eXgBVHQ.jpg&quot; target=&quot;_blank&quot;&gt;Motorola Razrhöz&lt;/a&gt; képest egyértelmű visszalépés, a Motorola a Razrrel járatta csúcsra a saját stílusát, Amoled kijelző, kevlár hátlap, minőségi anyaghasználat, komoly, éles vonalak és színek jellemzik.&lt;br/&gt;
+Aztán jött a &lt;a href=&quot;http://i.imgur.com/Nzw2gYL.jpg&quot; target=&quot;_blank&quot;&gt;Moto X&lt;/a&gt;, amely egy szintén egyedi koncepciót vezetett be, saját magad tervezheted meg az egyébként szintén szép telefont. Viszont az egy dolog, hogy szép, de a Motorola saját stílusa teljesen kiveszett belőle, a ma oly divatos lekerekített, pihe-puha dizájnt követi, amit a HTC már gyakorlatilag tökélyre fejlesztett.&lt;br/&gt;
+Ez pedig nem egy egyszeri kisiklás volt, a Moto G tovább viszi a vonalat.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Magyar Hajnal Mozgalom – ismét</title>
+		<link href="http://vizimajom.github.io/kozelet/2013/11/21/magyar-hajnal-mozgalom-ismet/"/>
+		<updated>2013-11-21T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/kozelet/2013/11/21/magyar-hajnal-mozgalom-ismet</id>
+		<content type="html">&lt;p&gt;Úgy terveztem, hogy többet nem írok erről a csürhéről, de olyan ziccereket hagynak, hogy kár lenne kihagyni, ezúttal a követőiket is szemrevételezem.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+
+&lt;p&gt;Korábban azzal kísérelték meg bizonyítani a magyarság fehérekhez való tartozását, hogy belső-ázsiai germánság és ennyi, és hogy fuj turanizmus. &lt;em&gt;(Egyébként nyilvánvaló, hogy ezen fantomgermánok sem lehettek fehérek.)&lt;/em&gt;&lt;br/&gt;
+Ezzel szemben az egyik újabb &lt;a href=&quot;http://magyarhajnal.com/galeria-nepszeru-a-horogkereszt-daniaban-is/&quot; target=&quot;_blank&quot;&gt;cikkükben&lt;/a&gt;, amin a fotelnácik a horogkeresztre verik, ez vagyon írva:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;A horogkereszt vagy – szanszkrit nevén – szvasztika az ősi Indiában és Kínában a halhatatlanség, illetve a jó szerencse jelképe volt, de Európa összes népének ősi motívumaiban is fellelhető, ugyanúgy a skandináv viking kultúrában, mint az ókori hellén civilizáció nyomai vagy a kelta, illetve &lt;strong&gt;hun/magyar&lt;/strong&gt; harcosok fennmaradt tárgyi emlékei között.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;A Magyar Hajnal végképp nem tudja miről beszél? Mi ellen beszél? Arra sem veszi a fáradtságot, hogy alapvető dolgokban ne mondjon ellent önmagának? Most, akkor a Magyar Hajnal szemében turáni nép vagyunk vagy sem? Egyáltalán tudják mit takar? Végeztek bármiféle kutatást? Vagy csak érzelem alapján fröcsögnek teljesen logikátlanul? Tudják melyik két ország az ahol a híres hun fejedelem, Atilla neve elterjedt utónév? Igen, azokban. Ráadásul pont a Magyar Hajnal által propagált kereszténység nem használta soha a horogkeresztet, ahogy egyik ábrahámi vallás sem, ők pedig a kereszténységet tekintik a saját vallásuknak, kultúrájuknak, ahogy az egy korábbi &lt;a href=&quot;http://magyarhajnal.com/nekunk-a-keresztenyseg-az-utolso-remenyunk/&quot; target=&quot;_blank&quot;&gt;cikkükből&lt;/a&gt; kiderült.&lt;br/&gt;
+És közlöm Priszkosz leírását Atilláról:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Hatalmát büszke magatartása és kevélyen körüljáratott szemeinek parancsoló tekintete is elárulta...Elhatározásaiban szilárd, könyörgésre engesztelékeny és kegyelmes azokhoz, kiket egyszer hívei közé számított. Külsejében igazi hun, alacsony termetével, széles mellével, nagy fejével, apró szemével, ritka szakállával, lapos orrával és sötét testszínével egyesítvén magában nemzetének sajátosságait...&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Térjünk át &lt;a href=&quot;http://magyarhajnal.com/zagyva-is-bevedi-a-jobbik-iszlamista-politikajat/&quot; target=&quot;_blank&quot;&gt;következő&lt;/a&gt; cikkükre.&lt;br/&gt;
+Itt már a címmel baj van, hiszen a Magyar Hajnal a saját, téves feltételezését közli tényként, miszerint a Jobbik iszlamista.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(Ostobaság: az iszlám államok többségére – a Közel-Keleten két kivétel van: Irán és Szíria, illetve a velük szövetséges kisebb helyi erők, mint a Hezbollah és a Hamasz – a korrupció, a butaság, az aljasság, a fogyasztói mentalitás a jellemző. Találmányaik, know-howjuk, a jövőbe való befektetéseik nem igen akadnak, pazarolnak, egyik napról a másikra élnek a pillanatnyi olajbevételekből. Gazdaságuk, katonai képességeik is külföldfüggők, mert  még egy kalasnyikovot is képtelenek feltalálni – ez alól talán Irán a kivétel)&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Ennek ellentmondani látszik, hogy az iszlám államok alkotják az Izraelt el nem ismerők elsöprő többségét, közéjük tartozik a Föld leggazdagabb országa, Katar is, de a sor nagyon hosszú, főleg ha beleveszem azon iszlám államokat amelyek Izraellel való diplomáciája alacsony szintű és nem ismeri el Palesztina megszállását. Ami pedig a korrupciót illeti, a Földön a muszlim Szingapúrban ténylegesen a legalacsonyabb, köszönik szépen, megvannak.&lt;br/&gt;
+Ezzel együtt Zagyvát is ki kell javítani: nemcsak az iszlám államok veszik fel a harcot a globalizmussal.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Az arab rezsimek 90%-a amerikai zsoldban áll és ezért elnyomja saját népét, a cionizmus ellen jó esetben is csak szavak szintjén küzdenek.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Igen, nyilván ha egy állam nem ismeri el Izrael létezését, a Palesztin megszállást, akkor azok csak szavak.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Másfelől az iszlám, mint társadalmi modell minden, csak nem jó az európai fehér kultúra számára.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Mert az európai fehérek jók voltak a magyarok számára? Idézem Freisingi Ottó püspököt, amint a magyarokat mocskolta ezen csodás fehér európai:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;a magyarok külseje marcona, szemeik beesettek, termetük alacsony, vadak, nyelvük barbár úgy, hogy vagy a sorsot kell vádolni, vagy az isteni türelmet kell csodálni, mely e szörnyetegeknek ilyen pompás ország birtokbavételét megengedte&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Most pedig idézem a csúnya, muszlim Gardízit:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Előkelő török népek akik bátrak, szép külsejűek és jó megjelenésűek. Ruházatuk színes selyem szövetből készült, fegyverzetük ezüsttel bevont, pompát kedvelők. Gyakran rontanak a szlávokra.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Kicsit másabb a hangvétel.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Alapból keresztényellenes&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;A Korán sehol, semelyik pontjában nem hirdet gyilkosságot, terrorizmust keresztények ellen, ez egy ócska és rosszindulatú hazugság.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;és évszázadok óta fejlődésképtelen&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Science_in_the_medieval_Islamic_world&quot; target=&quot;_blank&quot;&gt;Itt, igen, ez&lt;/a&gt;. Az arabok többek között a tudományban végzett fontos előrelépéseikről is híresek, több ezer éves kultúrnépről van szó. Néha már azt hiszem a Magyar Hajnal esetében, hogy nem képesek tovább süllyedni, de aztán mindig tudnak meglepetést okozni.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Az iszlám Európában pusztít, rombol, kiirtásunkra tör, jellemzően zsidó-liberális segítséggel is. És ne haragudj, egy iszlamista társadalom önmagában sem képvisel semmiféle értéket számunkra, az elsők közt nyakaznának le téged is, ha nem tartanád be a sariát, de még a mérsékeltebb iszlám társadalmakban sem tolerálnák egy percig sem a te életmódodat).&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Az iszlám senkinek és semminek nem tör a kiirtására, nem ártana tényleg elolvasni legalább a Koránt mielőtt ítélkeznénk, ellenben a csodás Európa célzottan, nyíltan a magyarok megsemmisítésére tört, a pozsonyi csata gondolom ismerősen hangzik. Nem fogok krokodilkönnyeket hullatni értük.&lt;br/&gt;
+Ráadásul miért kell sajnálni azt az Európát amiről pont most írja a Magyar Hajnal, hogy cionista? Miért kell sajnálni a cionista Európa „elpusztítását”? Esetleg a csúnya muszlimok megzavarnának valamit?&lt;br/&gt;
+Az a mentalitás pedig, ahogy ír a szerző, egyáltalán nem fér bele nemhogy a keresztény, de a homokos, vérfertőző európai „értékrendbe” sem. Mert egyébként tévedés, hogy a homoszexualitást, a vérfertőzést, a pedofíliát a liberálisok hozták volna be Európába, ez a nagyra tartott görög–római „értékrend” szerves, elvitathatlan része volt. Európában épp ezért gyakorlatilag a liberálisok a legnagyobb konzervatívok.&lt;/p&gt;
+
+&lt;p&gt;Most pedig rátérek a hozzászólásokra, elsőnek &lt;a href=&quot;https://www.facebook.com/hujber.tamas.5&quot; target=&quot;_blank&quot;&gt;Hujber Tamás&lt;/a&gt;éra:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;De Vona és bűntársai egyértelművé tették, hogy nekik az iszlám a mérvadó!&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;N+1-edik szándékos hazugság, másfélelől viszont I. István „pár éve” ténylegesen kiselejtezte a magyar kultúrát az ábrahámi miatt, mert neki az volt a „mérvadó”, Hujber Tomi kereszténysége nem magától hódította meg a magyarokat, nem békés úton, és most ugyanezért – szerinte legalábbis – fikázza az iszlámot. Legalább kicsit átérezheti az akkori magyarok helyzetét.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Szövetséget kötni az iszlamistákkal, hamis testvériséget hirdetni a zsidócsicska törökkel viszont hazaárulás!&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Korunk egyik nagy problémája az is, hogy a hazaáruló szó teljesen agyon lett koptatva, nincs már meg a hatása, Tomika jelen esetben is teljesen helytelenül alkalmazza.&lt;br/&gt;
+Ami a hamis rokonságot illeti, már az előző bejegyzésemben írtam pár szempontot ami alapján baromság hamisságról beszélni, de most nézzük az általuk – remélhetőleg – ismert korai magyarok neveit, akiknek &lt;em&gt;hogyafrancba&lt;/em&gt; nemtudni, de török nevük van:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ajtony vezér&lt;/li&gt;
+&lt;li&gt;Álmos fejedelem&lt;/li&gt;
+&lt;li&gt;Árpád nagyfejedelem – &lt;em&gt;a török arpa szóból képzett magyar név&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Csaba vezér&lt;/li&gt;
+&lt;li&gt;Enéh/Enese – &lt;em&gt;köznyelvben Emese&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Géza nagyfejedelem&lt;/li&gt;
+&lt;li&gt;Jelek&lt;/li&gt;
+&lt;li&gt;Jutocsa&lt;/li&gt;
+&lt;li&gt;Koppány&lt;/li&gt;
+&lt;li&gt;Kurszán fejedelem&lt;/li&gt;
+&lt;li&gt;Levedi fejedelem&lt;/li&gt;
+&lt;li&gt;Ond – &lt;em&gt;vitatott, vagy török, vagy magyar&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Örs vezér&lt;/li&gt;
+&lt;li&gt;Sarolt fejedelemasszony&lt;/li&gt;
+&lt;li&gt;Taksony nagyfejedelem&lt;/li&gt;
+&lt;li&gt;Tar Zerind&lt;/li&gt;
+&lt;li&gt;Tarhacsi&lt;/li&gt;
+&lt;li&gt;Tas&lt;/li&gt;
+&lt;li&gt;Termecsü&lt;/li&gt;
+&lt;li&gt;Teveli&lt;/li&gt;
+&lt;li&gt;Töhötöm vezér&lt;/li&gt;
+&lt;li&gt;Vajk – &lt;em&gt;később I. István király&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Zolta/Solt nagyfejedelem&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;A dolgokat most nem fogom túlbonyolítani: a 9. században bevonuló törzsek között a dilettánsok számára is letagadhatatlan kabar törzsszövetség török volt, közvetlenül a Kárpát-medencébe való bevonulás előtt kazárok és onogurok hatottak a magyar etnogenezisre, ha pedig megnézzük a bevonuló törzseket, azt is látjuk, hogy a török törzsek túlsúlyban voltak, nem is kicsiben. Ez nem összeesküvés, ez nem alternatív tudomány, ez a tény bitches.&lt;br/&gt;
+Ahogy egyébként a történelmi Azerbajdzsán területén volt Ulu Madzsar és Kicsi Madzsar település is, és további érdekes újdonság lehet hujbertomi részére a szavárd magyar nép és az isztambuli &lt;a href=&quot;http://goo.gl/maps/8lDhv&quot; target=&quot;_blank&quot;&gt;Macar Kardeşler Caddesi&lt;/a&gt; &lt;em&gt;(Magyar testvérek utca)&lt;/em&gt; és a &lt;a href=&quot;http://www.avrupaparkbahceler.com/parklarimiz.php?ilce=Fatih&amp;park=Macar%20Karde%C5%9Fler%20Park%C4%B1&amp;no=108&quot; target=&quot;_blank&quot;&gt;Macar Kardeşler Parkı&lt;/a&gt; &lt;em&gt;(Magyar testvérek park)&lt;/em&gt;.&lt;br/&gt;
+Most menjünk bele egy kis gyors nyelvészetbe, tényleg gyorsba, mert nincs hangulatom hosszasan fejtegetni a dolgokat, lényeg hogy annyit sokan tudnak, hogy a magyar és a török nyelv is ragozó nyelv, magánhangzó-harmónia jellemzi őket, és kerülik a mássalhangzó-torlódást.&lt;br/&gt;
+Viszont azt sokan nem tudják, hogy mindkettőben ugyanúgy működnek a nyelvtani esetek, ebből három példát bemutatok:&lt;br/&gt;
+Iskola – Okul&lt;br/&gt;
+Iskolá&lt;strong&gt;ban&lt;/strong&gt; – Okul&lt;strong&gt;da&lt;/strong&gt;&lt;br/&gt;
+Iskolá&lt;strong&gt;ból&lt;/strong&gt; – Okul&lt;strong&gt;dan&lt;/strong&gt;&lt;br/&gt;
+Még az is érvényesül, hogyha az utolsó magánhangzó zöngétlen, akkor a toldalék is az lesz, a szóvégi hangazonosulás pedig az előző bejegyzés óta sem szűnt meg, de most behozom a képbe azt, hogy a török nyelv is ugyanúgy el tud térni az eredeti szó alakjától &lt;em&gt;(magyarban pl. ló, lovam)&lt;/em&gt;, és majd a zöngés példa is előjön:&lt;br/&gt;
+Zseb – Cep&lt;br/&gt;
+Zseb&lt;strong&gt;ben&lt;/strong&gt; – Cebin&lt;strong&gt;de&lt;/strong&gt; &lt;em&gt;(Cepte ugyanúgy érvényes)&lt;/em&gt;&lt;br/&gt;
+Zseb&lt;strong&gt;ből&lt;/strong&gt; – Cep&lt;strong&gt;ten&lt;/strong&gt;&lt;br/&gt;
+A török nyelvben a magyarhoz hasonlóan nincs nyelvtani nem sem.&lt;br/&gt;
+A birtoklást ugyanúgy fejezik ki:&lt;br/&gt;
+Anya – Ana&lt;br/&gt;
+Anyá&lt;strong&gt;m&lt;/strong&gt; – Ana&lt;strong&gt;m&lt;/strong&gt;&lt;br/&gt;
+Könyv – Kitap&lt;br/&gt;
+Könyv&lt;strong&gt;em&lt;/strong&gt; – Kitab&lt;strong&gt;ım&lt;/strong&gt;&lt;br/&gt;
+Nem holmi habeo szerkezettel görénykednek ők sem, egy ismert példával illusztrálom:&lt;br/&gt;
+Ceb&lt;strong&gt;im&lt;/strong&gt;de çok küçük elma &lt;strong&gt;var&lt;/strong&gt;. – Zseb&lt;strong&gt;em&lt;/strong&gt;ben sok kicsi alma &lt;strong&gt;van&lt;/strong&gt;.&lt;br/&gt;
+Menjünk tovább az imádott görögökre, hogy mégis miként hívták a Magyar Nagyfejedelemséget. &lt;a href=&quot;http://books.google.hu/books?id=9p7tAAAAMAAJ&amp;q=%22Western+Tourkia%22&quot; target=&quot;_blank&quot;&gt;Bizony-bizony&lt;/a&gt;, Nyugat-Tourkiának, nyilván ők is zsidók.&lt;br/&gt;
+Tökéletesen jellemzi ezt a vérrasszista, primitív csürhét, hogy a Magyar Hajnal elzsidózta egyszer magát a turanizmusra, azóta ők is ezt teszik, az önálló gondolkodás fel sem merül bennük? Elképzelem a valós életben a beszélgetéseket, amiket folytatnak:&lt;br/&gt;
+– Te figyelj már Árész, mit gondolsz a gazdaságról?&lt;br/&gt;
+– Hú Zeusz, várj egy picit, megnézem mit mond róla a Magyar Hajnal!&lt;br/&gt;
+&lt;em&gt;[fél perc múlva]&lt;/em&gt;&lt;br/&gt;
+– Hát azt mondják, hogy a zsidók irányítják, szóval biztos hülyeség.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Az iszlám alapvetően egy velünk ellenséges, rohadt erkölcsű minta&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Újabb példája a mély tudatlanságnak, az iszlám a legszigorúbb, legerkölcsösebb világvallás ami csak létezik, mondom ezt úgy, hogy én sem kívánom ide a muszlimokat.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Ahol teljesen elfogadott a buziskodás, a korrupció, és hirdetik a hitetlenek elpusztítását.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Csupán a fent felsoroltak mindegyikét tiltja az iszlám.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Az, aki európai fehér létére nem a saját dolgaihoz nyúl vissza, ha baj van, az egy valódi identitás nélküli kocsonya. A buddhizmus elég jól van, erős, tiszteletre méltóbb ezerszer az iszlámnál, mégse a mi utunk.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Ebben a két mondatban több az ellentmondás, mint Orbán szabadságharcában.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Jön az európai, fehér „kultúrkörrel”, ami hagyományosan nem a magyarok kenyere.&lt;/li&gt;
+&lt;li&gt;A Magyar Hajnal Mozgalom pont, hogy felszopja a szkítákat, a buddhizmust meg pont a szkíták teremtették meg &lt;em&gt;(Gautama Sziddhártha, aki a sakja (szkíta) törzsből származik, hívták még Sakjamuninak (szkíta bölcsnek))&lt;/em&gt; akik nem az európai, fehér „kultúrkör” részei.&lt;/li&gt;
+&lt;li&gt;A „szkítizmus” ellenére leírja, hogy a buddhizmus nem a magyarok útja.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;Már lassan én érzem magam kényelmetlenül, hogy ilyen emberek a polgártársaim. Hujbertomi egy igazi genetikai hulladék, akinek további fröcsögéseire nem is szánok több időt. Jöjjön &lt;a href=&quot;https://www.facebook.com/tibor.papp.547&quot; target=&quot;_blank&quot;&gt;Papp Tibor&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;(arab, zsidó, és a cigányt is ide vehetjük a törökkel együtt)&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;És az egészet most untam meg, ezek tökéletesen Taigetosz-pozitív egyedek, sikerült 3 teljesen más csoportot egymással azonosítani. Az arabokat, zsidókat, akik sémik, nem szemiták, a cigányokat, akik behatárolhatatlan streetmixek, és a törököket akik hozzánk hasonlóan europo-mongolid &lt;em&gt;(turanid)&lt;/em&gt; eredetűek, és ez is hivatalos, bitches.&lt;/p&gt;
+
+&lt;p&gt;Elnézve ezeket, elég rendesen felemészti őket az öngyűlölet, a fehéropa felé való megfelelési kényszer. Nem is sajnálom, legyenek csak frusztráltak. Nincs annál szánalmasabb, mint amikor valaki feladja múltját, eredetét azért, hogy idegen erőknek megfeleljen. A Magyar Hajnal pedig egyértelmeűn csak egy szinonímaként használja a cionizmust a zsidókra, láthatóan kollektíve gyűlölik mindegyiket, ami megint szánalmas.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>„Őrület” a japán Bitcoin tőzsdén</title>
+		<link href="http://vizimajom.github.io/gazdasag/2013/11/18/orulet-a-japan-bitcoin-tozsden/"/>
+		<updated>2013-11-18T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/gazdasag/2013/11/18/orulet-a-japan-bitcoin-tozsden</id>
+		<content type="html">&lt;p&gt;Nem véletlen ez az unásig járatott hatásvadász bulvárcím, ugyanis történelmi csúcsokat döntöget a Bitcoin értéke az Mt Goxon, sokáig 750 USD volt a csúcs. Igen jól olvasod, egy BTC-t 750 USD-ért vehettél, azóta ez megdőlt és a jelenlegi rekord 779,54 USD, ami Google szerint barátok között is nagyjából 171440 HUF. Egy hét alatt produkált több, mint 100%-os növekedést a BTC, pár hete néztem, akkor még 220 USD körül stagnált az értéke, ha valaki akkor befektetett, akkor nyugodtan és boldogan térhet nyugovóra.&lt;/p&gt;
+
+&lt;p&gt;Meg sem írtam a cikket, már 788-on a Bitcoin. &lt;em&gt;(173301,078 HUF)&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Magyar Hajnal Mozgalom – legalja</title>
+		<link href="http://vizimajom.github.io/kozelet/2013/11/14/magyar-hajnal-mozgalom-legalja/"/>
+		<updated>2013-11-14T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/kozelet/2013/11/14/magyar-hajnal-mozgalom-legalja</id>
+		<content type="html">&lt;p&gt;Szándékos félreértelmezések, ferdítések, hazugságok, dezinformációk jellemzik a mozgalomnak marketingezett megélhetési párt bérlapját, a magyarhajnal.com-ot, aminek a fröcsögésétől már a heveny hányinger fogja el az egyszeri olvasót. Egyrészt idióta horogkeresztre recskázó neonácik, másrészt pedig hazudnak.&lt;br/&gt;
+Hosszú idők óta fikázza, mocskolja gyakorlatilag egyedülálló módon a Jobbikot, a politikai spektrumon az elvileg hozzá legközelebb elhelyezkedő Magyar Hajnal, mostanáig leszartam, mert nem szívügyem egy párt mellett véleményháborút folytatni, vannak erre képzett droidok, de az a mocsok amit áraszt magából az összes írásuk, engem is írásra sarkallt.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+
+&lt;p&gt;Azt minden nyitott szemmel járó ember láthatta eddig is, hogy a nemzeti oldal egyik legnagyobb ellensége egyenesen önmaga. Ugyanis bár „balra” megvan húzva a határ, de „jobbra” nem, így egészen szélsőséges esetekig jutunk el, minek eredményeképp átlagon felül repreztentálják magukat a paranoid személyiségzavarral átitatott konteósok, akiknek soha semmi nem jó, mindenbe bele kell látniuk a szabadkőműves, illuminátus, cionista és egyéb hasonszőrű mozgalmakat, mert anélkül semmi nem létezhet, „ők”, akiknek nem mondjuk ki a nevét, túl felsőbbrendűek hozzá, ugye-ugye.&lt;br/&gt;
+A Magyar Hajnalnak egyszerűen semmi nem jó a Jobbikkal szemben, ha a kék színt preferálja az a baj, de ha nem, akkor ugyanmár, az is. Erre a legtökéletesebb példa, egy friss, ropogós &lt;a href=&quot;http://magyarhajnal.com/eletfogytig-tarto-elozetes-hazafiaknak/&quot; target=&quot;_blank&quot;&gt;cikkük&lt;/a&gt;, ami a szokásos manipulációs eszközökkel él, egyből ez a bevezetője:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;ÉLETFOGYTIG TARTÓ ELŐZETES HAZAFIAKNAK&lt;br/&gt;
+A Fidesz és a Jobbik (Gaudi kivételével) megszavazta.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Dafuq did I just read? Gondolhatja az olvasó, hogy milyen ellentmondásba keveredett önmagával szemben a Jobbik, nosza, lapozzunk bele a cikkbe.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Az ároktőiek ürügyén Budaházyt 40 évig fogva lehet tartani ezután. Bedobnak egy kis ‘terrorszervezetet’, ‘bűnszövetséget’, és máris bármelyik ellenálló évtizedekre kivonható a forgalomból, puszta gyanúsítás alapján!&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Jahogy erről van itt szó, hogy a Magyar Hajnal a saját nedves képzelgéseit tényként közölte, igazi tisztességes tájékoztatás. Azonban ne legyenek kétségeink afelől, hogyha a Jobbik nem szavazta volna meg, akkor ez lenne a szalagcím:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;A JOBBIK A CIGÁNYBŰNÖZŐKET PÁRTOLJA&lt;br/&gt;
+Nem szavazott a cionista párt az „életfogytig” tartó előzetes mellett.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Kicsit sem gerinctelen banda ez a Magyar Hajnal, főleg hogy a Jobbik gyakorlatilag egyedül rengeteg tett, tesz Budaházyért, de menjünk tovább a következő seggfájásukra: állítólagos iszlamizmus, turáni eredet. Az alapul vett cikk &lt;a href=&quot;http://magyarhajnal.com/nekunk-a-keresztenyseg-az-utolso-remenyunk/&quot; target=&quot;_blank&quot;&gt;ez&lt;/a&gt;.&lt;br/&gt;
+&lt;em&gt;(Tisztázás: turáni népek = urál-altaji népek; uráli népek: finnugorok, szamojédek; altaji népek: törökök, mongolok, tunguzok, japánok, koreaiak)&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;A példás iszlám: utcakép Angliából. Vona imádottjai azt üzenik: “A saria az egyetlen megoldás Londonnak”&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;És beraknak egy elvakult iszlamistát, ez olyan mintha a Hit Gyülekezetével érvelnénk a kereszténység ellen, és ezt ők is tudják.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;A Magyar Hajnal Mozgalom megütközve szemléli az álnemzeti álradikális álkeresztény pártvezető iszlamista ámokfutását, amelyet ráadásul hamis vérrokonsági ideológiával, a “turanizmussal” önt le. A turanizmus hebraista zsidó tudósok, Goldziher Ignác és Wamberger Ármin 19. századi szellemi terméke.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Megint előkerült a zsidókártya. Vona Gábor iszlámról közölt – egyébként jogos – gondolatait szándékosan nem akarja úgy érteni a Magyar Hajnal, és sokan mások sem, ahogy azt Vona Gábor gondolta. Én nem fogok egy újabb értelmezést adni a gondolataira, mert baromság más szájába rágni valamit, inkább közlöm az ő, saját &lt;a href=&quot;http://alfahir.hu/a_vilagban_zajlo_valodi_harc&quot; target=&quot;_blank&quot;&gt;értelmezését&lt;/a&gt;.&lt;br/&gt;
+A nyelvészet, antropológia, mitológia, zene, régészet, történészet, művészet pedig makacs dolgok, de ha nincsenek ínyünkre a tudományos tények, akkor vehetjük alapul a magyarság származástudatát, ami egy „bizonyos” turáni népig vezet vissza, a ma is meglévő mitológiát &lt;em&gt;(igen, a turult is)&lt;/em&gt;, ami altaji, ezzel együtt a vallásglobalizálás &lt;em&gt;(értsd: krisztianizáció)&lt;/em&gt; előtti vallásunk, a &lt;a href=&quot;http://en.wikipedia.org/wiki/Tengrism&quot; target=&quot;_blank&quot;&gt;tengrizmus&lt;/a&gt; is az altaji népek sajátja volt.&lt;br/&gt;
+A rovás írásrendszerek pedig azon belül is a török népeké.&lt;br/&gt;
+A fehérvár elnevezés is hun szokás, a Kínában felfedezett hun romváros is ezt a nevet viselte &lt;em&gt;(Bai Cheng, ami hsziungnu nyelven fehérvárat, vagy fehér várost jelent.)&lt;/em&gt;&lt;br/&gt;
+Tudom, hogy roppant vonzó lenne a korábban általuk felemlegetett közép-ázsiai germán–falfehér eredet &lt;em&gt;(igen, jól olvasod, tényleg ilyen agymenésre készülnek)&lt;/em&gt;, de akkor nézzünk meg belőlük egy alapszókincsbe tartozó roppant elementáris szót &lt;em&gt;(amúgy a „szó” török nyelvekben: söz (ujgur, kazak, török, azeri, tatár); so'z (üzbég); soz (türkmén); sämax (csuvas) germán nyelvekben: word (angol); das Wort (német); woord(afrikaans/holland))&lt;/em&gt;, vegyük pl. az „én” és az „enyém” esetét:&lt;br/&gt;
+&lt;strong&gt;Török&lt;/strong&gt;: ben &lt;em&gt;(én)&lt;/em&gt;, benim &lt;em&gt;(enyém)&lt;/em&gt;&lt;br/&gt;
+&lt;strong&gt;Üzbég&lt;/strong&gt;: men, menim&lt;br/&gt;
+&lt;strong&gt;Kazak&lt;/strong&gt;: men, mengym&lt;br/&gt;
+Jól megfigyelhető, hogy még a ragozás és a szóvégi hangazonosulás is megegyezik.&lt;br/&gt;
+Uralisták kedvéért:&lt;br/&gt;
+&lt;strong&gt;Finn&lt;/strong&gt;: minä &lt;em&gt;(én)&lt;/em&gt;, minun &lt;em&gt;(enyém)&lt;/em&gt;&lt;br/&gt;
+&lt;strong&gt;Észt&lt;/strong&gt;: mina, minu&lt;br/&gt;
+&lt;strong&gt;Számi:&lt;/strong&gt; mun, mu&lt;br/&gt;
+Jöjjenek a germánok:&lt;br/&gt;
+&lt;strong&gt;Angol&lt;/strong&gt;: I &lt;em&gt;(én)&lt;/em&gt;, My &lt;em&gt;(enyém)&lt;/em&gt;&lt;br/&gt;
+&lt;strong&gt;Német&lt;/strong&gt;: Ich, Mein&lt;em&gt;(e)&lt;/em&gt;&lt;br/&gt;
+&lt;strong&gt;Holland&lt;/strong&gt;: Ik, Mijn&lt;br/&gt;
+Ezzel most én nem állítok semmit, csak összehasonlítom a dolog jogosságát, természetesen nem egy szó alapján dől el a nyelvek egymással való viszonya, de itt az egyik legalapvetőbb részét vettem alapul a nyelveknek, és ha ez nem stimmel, akkor onnantól kukázható a nyelvrokonság, és itt tökéletesen látszik az a mélyenszántó, meggyőző hasonlóság hiánya a magyar és a germán nyelvek között, pedig egy ilyen alapvető szónak máig hasonlónak kéne lennie, ez nem egy számítógép szintű modern dolog, ami úgy alakulgat, mint Orbán lelke választás előtt és után.&lt;br/&gt;
+Egyébként nem sok nép büszke arra, hogy nagyrészt asszimilálódott etnikailag a környező népekbe (szlávok, germánok), de a magyar „nemzetiek” egy része pont az.&lt;br/&gt;
+Emellett a turanizmus nem egy megalkotásra szoruló dolog, magától értetődő politika a nacionalizmus 18. századi megjelenése óta, ahogy a pánszlávizmust, a pángermánizmust, pánarabizmust, pániranizmust sem kell feltalálni, mert evidens, hogy mindenki próbál összefogni a sajátjával. Azonban a turanizmus kezdetéről sem képes tényszerűen írni a Magyar Hajnal, már időtlen idők óta létezik, csak a terminológia változik, sokáig hun, tatár és szkíta jelzőt használtak a turáni helyett. Plusz valahogy az a helyzet, hogy az altaji népek azok akik rokonnépként tekintenek a magyarokra, mióta világ a világ, politikai, vallási hovatartozástól függetlenül, és nekik senki nem mondta meg, hogy a magyarokat annak kell tekinteni, maguktól tesznek így. Ahogy a görögök és a germánok nem, esetleg pár elborult „hitlernyugger”.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Európában az aktív templomba járóktól az ateisták többségéig a görög-római és a keresztény értékrend, jogrend és hagyományok (amiben sok ősmagyar tradíció is foglaltatik) alapján éljük életünket&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;A görög–római értékrend annyira értékrend, hogy semennyire, ráadásul mindössze a &lt;a href=&quot;http://en.wikipedia.org/wiki/Proto-Indo-European_religion&quot; target=&quot;_blank&quot;&gt;proto-indo-európai vallás&lt;/a&gt; regionizált változatai, a kereszténység pedig egy &lt;a href=&quot;http://en.wikipedia.org/wiki/Abrahamic_religions&quot; target=&quot;_blank&quot;&gt;ábrahámi vallás&lt;/a&gt;, már ezeknek sincs köze egymáshoz, nemhogy a magyarok &lt;a href=&quot;http://en.wikipedia.org/wiki/Tengrism&quot; target=&quot;_blank&quot;&gt;tengrizmusához&lt;/a&gt;. Azonban ma már a napjaink részévé váltak, hiszen 1000 éve az európai globalista kultúrkörnek hódoltunk be.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;és nem szorulunk a kultúránktól idegen, pláne nem ritkán ellenséges, de legjobb esetben is összeférhetetlen életformák dicséretére.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Ami azt illeti, a bevonuló törzsek között volt muszlim, de keresztény nem. A káliz egy iráni muszlim törzs volt, a kabar törzsek kazár muszlimok voltak, a varsány is iráni volt, vallásuk nem tisztázott, de esélyes, hogy muszlim.&lt;br/&gt;
+Ettől függetlenül a mondandóval egyetértek, nem szorulunk sem az iszlám, sem a keresztény vallásra, van saját kultúránk.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;de egyébként is miféle ember az, aki nem saját vallását, identitását helyezi a középpontba.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Bort iszunk és vizet prédikálunk? :)&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Nekünk Kinizsi, a Hunyadiak, Dobó, a Zrínyiek, Balassi, Tomori a példaképünk, és hitet is saját vallásunkból merítünk.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;A fent említett emberek szembementek Árpádékkal, tehát a ti elcseszett analógiátok szerint mocskos hazaárulók. Hitet pedig nem saját vallásból, hanem a kereszténységből merítetek.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Ami konkrétan Törökországot illeti, a 150 éves megszállásunkon túl a 20. században népirtást rendezett két keresztény nép, az örmények és a görögök körében és ma is minősíthetetlenül bánik kurd kisebbségével.. A mai Törökország lehet kereskedelmi partner, de semmi több.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Megint egyoldalú tájékoztatás, de mit is várhatna az ember egy hírportáltól. Arról mélyen kussolnak, hogy a kedves, keresztény örmények &lt;a href=&quot;http://en.wikipedia.org/wiki/Khojaly_Massacre&quot; target=&quot;_blank&quot;&gt;kétszer&lt;/a&gt; is &lt;a href=&quot;http://en.wikipedia.org/wiki/March_Days&quot; target=&quot;_blank&quot;&gt;népírtást&lt;/a&gt; rendeztek az azeriek ellenében, ahogy a kurdok többször, célzottan indítottak terrorista akciókat törökök ellen. De inkább idézem a &lt;a href=&quot;http://hu.wikipedia.org/wiki/T%C3%B6r%C3%B6korsz%C3%A1g%E2%80%93PKK_konfliktus&quot; target=&quot;_blank&quot;&gt;Wikipédiát&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Amikor a törökországi határokat véglegesítő lausanne-i békeszerződést aláírták, a kurd követeléseket figyelmen kívül hagyták, és a területet végül Törökország, Irak és Szíria között osztották szét. Emiatt a kurdok elkezdtek fellázadni, a fiatal Török Köztársaságnak több felkelést is le kellett vernie, és szigorú intézkedések megtételére kényszerültek. Bezárták a kurd iskolákat, megtiltották a kurd nyelv használatát, a hadsereg „tisztogató” hadjáratokat indított a kurdok lakta területeken.&lt;br/&gt;
+1978-ban Abdullah Öcalan megalapította a PKK nevű kurd pártot, ami független kurd állam létrejöttéért kezdett el harcolni, Diyarbakır fővárossal. A PKK rendszeresen indított terroristaakciókat török célpontok ellen. 1979-ben Öcalan Szíriába menekült, ahol kiképzőtáborokat hozott létre. A PKK kábítószer-csempészetből és a Nyugat-Európában élő kurdoktól származó pénzekkel fegyverezte fel az embereit. 1999-ig több mint 5000 török katona, rendőr és civil halt meg a támadásokban, a PKK lerombolt 2000 civil épületet, 250 iskolát és 50 egészségügyi épületet. 1999-ben Öcalant török katonai kommandó vitte haza Kenyából, és a bíróság halálra ítélte. 2002-ben azonban eltörölték a halálbüntetést, így Öcalan ítéletét életfogytiglanra változtatták. Az Európai Unió felvette a PKK-t a terroristaszervezetek listájára. A támadó csapatok Irakba és Iránba szóródtak szét.&lt;br/&gt;
+Az AKP vezette török kormány 2002 óta megpróbál javítani a kurdok helyzetén, így például újra engedélyezték a kurd nyelvhasználatot, 2009-ben pedig bejelentették, hogy tárgyalóasztalhoz ülnek a kurdokkal.
+2010 szeptemberében Murat Karayilan az El Mundo című spanyol napilapnak azt nyilatkozta, hogy leteszik a fegyvert, ha Törökország elfogadja az autonóm régiók spanyolországihoz hasonló modelljét.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Ennyit erről. A törökök bánásmódja tényleg elfogadhatatlan volt sokáig, ám ma már semmi szükség a kurdok megszállott befogadóellennességére.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;A mai Törökország ugyanis nem csupán iszlamista, de támogatja a Szíria elleni cionista agressziót, terroristákat képez ki, és minden, a közvéleménynek szánt propagandamutatvány ellenére Azerbajdzsánnal együtt az USA (és ezáltal Izrael) kulcsfontosságú közel-keleti szövetségese, a NATO oszlopos tagja, és mint ilyen, a számunkra valóban fontos keresztény Oroszország elleni koalíció tagja.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;A szokásos olcsó rágalmak, terroristaképzésről, ez nagy kedvence a hajnalosoknak.&lt;br/&gt;
+Alapvetően az látszik, még a műveltebb embereknél is, hogy sokan megfeledkeznek arról, hogy nemcsak Magyarországnak vannak saját érdekei, és más országok élete sem két kapcsoló között áll. A világon nemcsak cionista és nemcionista érdek létezik, hanem államokra, nemzetekre lebontott is.&lt;br/&gt;
+Törökországnak egyrészt érdeke egy szunnita irányítású Szíria, főleg mióta iráni bábkormány vezeti Irakot, másfelől egyáltalán nem érdeke egy esetleges kurd miniállam létrejötte a határaik mentén, ráadásul a szíriai kurd kisebbséget rengeteg olyan ember alkotja, aki megszállott törökellenes terrorista múlttal és esetleg jelennel rendelkezik. Ez a kurd csoport, amelyik most létrehozott egy de facto kurd területet, nemcsak a szír kormánynak, de a felkelőknek is ellensége.&lt;br/&gt;
+Pár éve, a „cionista” Törökország által Gázába küldött segélyszállítmány Izrael általi megtámadása, 9 ártatlan török civil lemészárlása is megmutatja a két ország közti puszipajtási viszonyt, ne legyenek kétségeink, ha a NATO nem állna Törökország mögött, akkor Izrael nem feltétlenül állt volna meg itt, így azonban, ha megtámadja Törökországot, még USA-nak is kötelessége lenne Izrael ellen mennie, lévén pont az „örök üldözöttek” nem NATO tagok.&lt;br/&gt;
+Válaszul Törökország &lt;a href=&quot;http://www.presstv.ir/detail/2013/10/17/329833/turkey-exposed-israeli-spies-to-iran/&quot; target=&quot;_blank&quot;&gt;lebuktatott&lt;/a&gt; 10 Moszad ügynököt Iránnak, akikre a halál várt egy ködös kihallgatás után.&lt;br/&gt;
+Törökország továbbá annyira Oroszország elleni koalíció tagja, hogy szándékában áll csatlakozni az orosz-fehérorosz-kazak vámunióhoz. Önmaga alatt vágná a fát?&lt;br/&gt;
+Ráadásul Törökország fontos &lt;a href=&quot;http://www.todayszaman.com/news-269869-turkey-and-russia-develop-strategic-alliance.html&quot; target=&quot;_blank&quot;&gt;stratégiai szövetségese&lt;/a&gt; Oroszországnak.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Törökország felől Európát kezelhetetlen bevándorlók, drog és maffiák árasztják el&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Köhömm, idézem újra a Wikipédiát:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;A PKK kábítószer-csempészetből és a Nyugat-Európában élő kurdoktól származó pénzekkel fegyverezte fel az embereit.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Tehát rengeteg törökországi, török állampolgárságú kurd vándorol Nyugat-Európába, a hajnalos szerző valószínűleg rájuk gondol, de ilyenkor persze nem beszélünk kurdokról, csak akkor ha sajnáltatni kell őket. Mint itthon a cigánybűnözés: ha cigányt ölnek, akkor ki kell mondani, hogy cigányt öltek, de ha cigány öl, akkor ő papíron magyar, így „felesleges” bármit is mondani. Cionista agymosó módszer. Ez az utolsó példa jól szemlélteti, hogy szándékos hazugságokkal él a Magyar Hajnal, és hogy mennyire is lehet bennük megbízni.&lt;br/&gt;
+És ezt a nemzeti agymosást egy Szent Koronára tett esküt megszegő politikus írta.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Helyzetjelentés</title>
+		<link href="http://vizimajom.github.io/misc/2013/09/27/helyzetjelentes/"/>
+		<updated>2013-09-27T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/misc/2013/09/27/helyzetjelentes</id>
+		<content type="html">&lt;p&gt;Mint látható, két régebbi bejegyzésem már átkerült az előző blogomról. Ezekre nem ok nélkül került a választás, mert ezen bejegyzések az én dolgomat voltak hivatottak megkönnyítani, ugyanis bennük jellemzően olyan dolgokat írtam le, amiket mások már ezerszer intéztek hozzám kérdésként, így praktikussági okokból született meg ezen döntésem, hogy míg nem készül el teljesen az oldal, addig is tudjak egy esetleg ezekkel felmerülő kérdésre linket odahányni és ne kelljen sokadszor ugyanazt leírnom.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FRISSÍTÉS&lt;/strong&gt;&lt;br/&gt;
+Ahogy múlik az idő, úgy folyamatosan tolom vissza a bejegyzéseket, és mind emögött fog megjelenni, eredeti dátummal, csak a félreértések elkerülése végett.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Don't be evil, just a little bit</title>
+		<link href="http://vizimajom.github.io/tech/2013/03/19/dont-be-evil-just-a-little-bit/"/>
+		<updated>2013-03-19T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/tech/2013/03/19/dont-be-evil-just-a-little-bit</id>
+		<content type="html">&lt;p&gt;A cím éppenséggel a Google mottójának némileg módosított változata. Akik ezt olvassák, nyilván tudják, hogy a kugli jóideje takarítja ki a perifériaszolgáltatásait, amik között bár volt olyan, amit egy operásokhoz hasonlóan kicsi, de hangos réteg használt (Google Notebook), aminek a helyére várhatóan a Google Keep érkezik, de eljött az első igazi „mainstream” alkalmazás, a Google Reader...&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+
+&lt;p&gt;
+...elvileg csökken a használat, miközben a legnépszerűbb csatornának (CNN) ~25 millió követője van, míg Twitteren ~8 millió, és senki ne jöjjön azzal, hogy jó-jó, de ezek inaktívak, mert éppenséggel felhozhatom azon példát, hogy Lady Gaga 30 millió követőjéből 12 millióan inaktívak és 10 millió pedig vásárolt, hamis profil és ez csak egy példa a közelmúltban kirobbant FB/Twitter hamisfiók botrányok közül.&lt;br/&gt;
+Ami a másik fájó dolog ezzel kapcsolatban az az, hogy a Reader talán pont az &lt;strong&gt;egyetlen&lt;/strong&gt; olyan szolgáltatása a Google-nek aminek még valamirevaló vetélytársa sincs. Ott az &lt;a href=&quot;http://theoldreader.com/&quot; target=&quot;_blank&quot;&gt;Old Reader&lt;/a&gt;, pár napja megetettem vele a Google Readerből exportált adataimat, hogy importálja be, azóta ez van &lt;em&gt;„Thank you for uploading your OPML file. We will soon start importing your subscriptions, which might take up to several hours depending on the amount of feeds you have. There are 10958 users in the import queue ahead of you.”&lt;/em&gt; Several hours? Weeks, weeks ha mondom.&lt;/p&gt;
+
+&lt;p&gt;Aztán vannak a magazinos fostengerek, mint a &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.google.android.apps.currents&quot; target=&quot;_blank&quot;&gt;Google Currents&lt;/a&gt;, vagy a &lt;a href=&quot;https://play.google.com/store/apps/details?id=flipboard.app&amp;hl=hu&quot; target=&quot;_blank&quot;&gt;Flipborard&lt;/a&gt;, természetesen mindkettő smartplatformokon érhető el, na nem mintha szükségem lenne rájuk, de egy hírcsatorna olvasót én mindenhol el akarok érni.&lt;br/&gt;
+Aztán vannak az olyan öszvérek, mint például a &lt;a href=&quot;http://feedly.com/&quot; target=&quot;_blank&quot;&gt;Feedly&lt;/a&gt;, amely egy JavaScriptes giccsparádé, teli reklámmal, ajánlások néven, de legalább valamilyen szinten át lehet alakítani a szarfos magazinos kinézetet és egyből berántotta a feliratkozásaimat, hurrá!&lt;br/&gt;
+A &lt;a href=&quot;http://www.netvibes.com/&quot; target=&quot;_blank&quot;&gt;Netvibes&lt;/a&gt; pont ugyanezen okokból vállalhatatlan.&lt;br/&gt;
+Ja igen, azt el is felejtettem megemlíteni, hogy a Feedly-hez Chrome alkalmazás, Firefox bővítmény, vagy okosalkalmazás nélkül hozzá sem szagolhatunk, de legalább folyamatos szinkronban van a Readerrel, ettől függetlenül nem alternatíva.&lt;br/&gt;
+Az olyan alkalmazások, mint a viharmadár, vagy bánomisén milyen olvasó sem opció, mivel nem tudom bárhonnan elérni a feliratkozásaimat, reinstallnál menteni kell a konfigurációt, macerás.&lt;/p&gt;
+
+&lt;p&gt;Heveny pikantériát ad a fent vázolt szappanoperának, hogy az egyik Google Reader megmentésére irányuló petíció (lásd &lt;a href=&quot;https://www.change.org/petitions/google-keep-google-reader-running&quot; target=&quot;_blank&quot;&gt;itt&lt;/a&gt;) átlépte a százezres álomhatárt. Ha valaki nem tudná, akkor ez azt jelenti, hogyha a zusa kormányának írták volna ki, akkor kötelesek lennének foglalkozni az üggyel.&lt;br/&gt;
+Az utolsó mentsvár valószínűleg a Digg által fejlesztett &lt;a href=&quot;http://digg.com/reader&quot; target=&quot;_blank&quot;&gt;alternatíva&lt;/a&gt; (?) lesz, céljaik szerint remakelik a Google Reader-t, hajrá. Ez viszont sajnos nem változtat azon a tényen, hogy egyetlen ultimate accal (Google) minden engem érdeklő szolgáltatást elérek, egységesen.&lt;/p&gt;
+
+&lt;p&gt;Hogy némi pozitívumot is említsek, a Google elkezdett újabb lépéseket foganatosítani az Androidos férgek ellen, jelenleg minden alkalmazást törölnek ami más alkalmazás működését akarja manipulálni, természetesen az anti-Google média khm...pcfor...khm ebből csak annyit kommunikált le, hogy a Google törli a reklámblokkolókat, nice try.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Enkór</title>
+		<link href="http://vizimajom.github.io/tech/2012/04/30/enkor/"/>
+		<updated>2012-04-30T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/tech/2012/04/30/enkor</id>
+		<content type="html">&lt;p&gt;Az enkór nem hagyta cserben a netcigányságot, és egy grandiózus adatgyűjtésbe kezdett, potenciális felhasználók megvezetésével.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+
+&lt;p&gt;Az nCore pár hete – egy állítólagos tulajdonosváltást követően – indított el egy regisztrációra való feliratkozást az alábbi szöveggel:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Figyelem! Az oldal korlátozott ideig, április 30-áig lehetőséget nyújt a regisztrációra, iratkozz fel most, hogy lehetőséged legyen bejutni az ország legnagyobb és legnépszerűbb tartalmi közösségébe!&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Szép pirossal a fekete szövegen, kijelölés nélkül gyakorlatilag olvashatatlan, roppant esztétikus, de most nem ez a lényeg.&lt;br/&gt;
+Az átlag hülye, aki számára az nCore-ba való bekerülés jelenti a megváltást mit lát ebből? Azt ami le van írva, lehet regisztrálni egy feliratkozást követően, ezen felbuzdulva meg is adja az email címét, úgyis elfér a spamhálózatban. Felcsillan a szeme enkórfan pistikének, hogy jujjregisztrációsűrlap, ki is tölt mindent és hopp, esemesreg, zugtárskereső, adattolvaj &lt;a href=&quot;http://www.generalmedia.hu/site_list.php&quot; target=&quot;_blank&quot;&gt;Generál Média&lt;/a&gt;, amelynek &lt;a href=&quot;http://www.generalmedia.hu/site_list.php&quot; target=&quot;_blank&quot;&gt;terméklistáján&lt;/a&gt; még nem szerepel az enkór. A kapcsolatot persze bőszen tagadja az nCore, nyilván véletlenül intézik a pénzmosást a talalka.hu-n keresztül.&lt;/p&gt;
+
+&lt;p&gt;Korábban, a szóban forgó netcigány trackeren díszelgett egy szöveg, amelyet idézek:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Nem árulunk meghívót különböző oldalakon (például: Facebook, Google+, Twitter, stb.) és SMS-regisztrációra sincs lehetőség. Amennyiben ehhez hasonló oldalakkal találkozol, tekintsd tárgytalannak az általuk kínált  lehetőségeket.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Ezt bizonyítandó &lt;a href=&quot;http://noob.hu/2012/04/27/nem_ncore.jpg&quot; target=&quot;_blank&quot;&gt;ide&lt;/a&gt; kattintva látható egy roppant frappáns kép, ez a szöveg azóta rejtélyes módon eltűnt. Látszik, hogy mennyire gondolták komolyan az SMS-regisztrációt mellőző regisztrációs folyamat ellenzését.&lt;br/&gt;
+Tehát itt szimplán egy átverésről van szó, hiszen az oldal még az SMS-regisztráció bevezetésével egyidőben is tagadta, hogy lenne ilyesféle, „hivatalos” mód a bekerülésre, így az átlagbarom enkórista jogosan feltételezte, hogy eljött az ideje, de valójában csak benyelték az adatait.&lt;br/&gt;
+Az átverések folyamata még az adatok megadását követő tarhálás közben is folytatódik, hiszen először közlik, hogy 1500 forintért bekerülhetsz, a gyakran ismételt kérdésekben pedig már kiderül, hogy az SMS ára 2032 forint. Igazi netcigány magatartás, a magyar P2P társadalom legnagyobb szégyene lett az nCore, eddig sem volt makulátlan, innentől viszont kifejezetten undorító.&lt;br/&gt;
+Abban pedig mindenki biztos lehet, hogy a befolyt összeg nem az oldal fenntartására fog szolgálni, hiszen a havi támogatásjelző pedig 73 százalék, ne hazudja már senki azt, hogy több ezer hülyegyerek regisztrációja nem fedezi az oldal fenntartását, plusz még ehhez hozzájönnek a támogatások is.&lt;br/&gt;
+Egy újabb idézet:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;1500 Ft-ért a regisztrációd tudod aktiválni, 3500 Ft-ért pedig az aktiváláson túlmenően támogatóként is feltűnsz az nCore oldalán.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Magyarán az 1500 forintos „támogatás” nem támogatás.&lt;/p&gt;
+
+&lt;p&gt;Ezzel a lépéssel az nCore végérvényesen lefokozta magát a pistike trackerek szintjére. Adatlopás, SMS-regisztráció, átverés. Egy olyan oldalon pénzt kérni a regisztrációért ami a közösség nélkül szart se érne, enyhén szólva a legaljasabb netcigánykodás.&lt;/p&gt;
+
+&lt;p&gt;Ivoviz, „volt” tulajdonos írta:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;ez egy teljesen illegalis oldal, meg ha nincs is kimondva. ti megis mibol fizetnetek a havi koltsegeket? megsugom, a reklamcegek le se szarjak az oldalt az elobb emlitett ok miatt. a tamogatas a budos eletben nem volt 100%, szimplan kiirtuk ho vegen, hogy tudjatok meghivot kuldeni anelkul is. tehat hallgatom a nagy marketingesektol az otleteket.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Szokásos enkórista szöveg, az oldal fenntartásának összege kétszerese Magyarország GDP-jének, de legalább megtudtuk, hogy a támogatási státuszjelzőt illetően a felhasználók képébe hazudtak, ami nyilván nem az egyetlen hazugságuk volt.&lt;/p&gt;
+
+&lt;p&gt;A Generál Média munkásságát illetően álljék itt két link:&lt;br/&gt;
+&lt;a href=&quot;http://pcworld.hu/veszelyes-a-facebookhu-20120110.html&quot; target=&quot;_blank&quot;&gt;Veszélyes a Facebook.hu&lt;/a&gt;&lt;br/&gt;
+&lt;a href=&quot;http://pcworld.hu/facebookhu-helyreigazitas-20120112.html&quot; target=&quot;_blank&quot;&gt;Facebook.hu helyreigazítás&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pár éve, a DarkSide bezárásakor, sajtmester nagyon jó összefoglalót írt a sajnos még mindig aktuális helyzetről, &lt;a href=&quot;http://darkside.dyn-o-saur.com/&quot; target=&quot;_blank&quot;&gt;ide&lt;/a&gt; kattintva elolvasható.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Teljes anonimitás bashben</title>
+		<link href="http://vizimajom.github.io/tech/2012/04/22/teljes-anonimitas-bashben/"/>
+		<updated>2012-04-22T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/tech/2012/04/22/teljes-anonimitas-bashben</id>
+		<content type="html">&lt;p&gt;Az utóbbi időben már zavaróan sokan érdeklődték tőlem, hogy mégis, hogy a francba lehet teljes anonimitást szerezni a bash felett, hiszen egyeseknek olyan jó, divatos móka lenne a DDoS, de a börtön ablakába nem süt be a nap.&lt;/br&gt;
+Erre írok, akkor most éppenséggel megoldást, mert miért ne? Elég lesz innentől rálinkelni.
+Első körben a Tor és a Privoxy telepítését oldjuk meg, nem érdekel hogyan, ha ez nem megy, akkor meg sem érdemled a leírás további részét.
+&lt;/br&gt;&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+
+&lt;p&gt;Na, ügyes vagy. Mivel idáig eljutottál, így követheted további útmutatásaimat, akár eredménnyel is. Az /etc/privoxy/config állomány mostmár csak a szerkesztésre vár.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo nano /etc/privoxy/config
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Nagyszerű, egy halomnyi Page Down nyomogatás után elérjük a konfigurációs fájl legalját, ide tömjük be az alábbiakat:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;forward-socks5 / 127.0.0.1:9050 .
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Zseniális, már majdnem készen vagyunk, de azért még párat rá kell hányni a terminálra, mint például ezeket:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo service tor restart
+sudo service privoxy restart
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Ezen parancsok sikeres leütése után mostmár nekiláthatunk terminálunk proxy-val való ellátásának, amely egy nagyon egyszerű folyamat:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;export http_proxy='http://localhost:8118'
+export https_proxy='http://localhost:8118'
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Már csak annyi van hátra, hogy leellenőrizzük munkánk gyümölcsét a következőképpen:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;wget -qO- icanhazip.com
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Amennyiben egy vadidegen IP címet látunk, nekieshetünk a duhajkodásnak.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>„A neonáci politikai aktivitás nem része a szólásszabadságnak...” - Jónás Marianna</title>
+		<link href="http://vizimajom.github.io/kozelet/2012/01/07/nyomilla-jonas-marianna/"/>
+		<updated>2012-01-07T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/kozelet/2012/01/07/nyomilla-jonas-marianna</id>
+		<content type="html">&lt;p&gt;Rég írtam már, igazából nem volt mit és ezentúl sem fogok írni, ha nincs mit, ezt meg kell szokni. Ettől függetlenül az oldalt némileg átalakítottam, tehát töröltem pár cikket, mivel nem szeretnék hírportál lenni, annak ellenére sem, ha ezzel méginkább nőne a látogatottság.&lt;br/&gt;
+Most az egymillióan a magyar sajtószabadságért nevű hangzatos, vállaltan liberalista mozgalomról írok.&lt;br/&gt;
+Tisztában vagyunk azzal, hogy a liberalizmus mit jelent? Oh, igen! Szabadelvűség.&lt;br/&gt;
+Most pedig megkísérlem definiálni a szabad szót politikai értelemben:&lt;br/&gt;
+másoktól független, belátása szerint akármit mondhat, tehet, hihet stb.&lt;br/&gt;
+Ez még lényeges lesz, tehát jól jegyezzük meg!&lt;br/&gt;
+Tehát a videó:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube-nocookie.com/embed/TWgIk-NRl3w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;
+Ez egy hosszú bejegyzés lesz, szóval ha el akarod olvasni, akkor mindenképpen meg kell nyitnod a teljes bejegyzést.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+
+&lt;p&gt;Első ami fogad minket az egy roppant „kellemes” összehányt zene, roppant leleményes dalszöveggel. Daraliladaratta, majd pár másodperc múlva megkönnyebbülten vesszük tudomásul, hogy ezt is túléltük.
+A bevezető zene után már nincsenek nagy elvárásaink, de a mozgalomnak sikerül még így is hidegrázást ránk hozni Jónás Marianna, szociálpedagógus bejelentkezésével.&lt;br/&gt;
+Kezdi sorait azzal, hogy mi lenne, ha ő lenne itt a valaki &lt;em&gt;(ettől láthatóan nem kell félnünk)&lt;/em&gt;. Nem is kell neki több, már belevág a lecsóba: ő biz' Isten nem írna alá mindent, amin fog a tinta. Még jó, hogy a tisztelt kormányunk első csettintésre telibe hányta festékkel az IMF szerződését.&lt;br/&gt;
+Lefutja a szokásos, hazug demagóg köröket a liberális címszavak körül, mint pl. kozmopolitizmus, multikulti, ceginyelnyomottromák, ceginyelnyomottbuzik, de a gárda, jajj a náci gárda. Ez eddig csak nevetséges, így több időt nem is pazarlok erre.&lt;br/&gt;
+Jöjjön inkább a címadó mondat: &lt;q&gt;„A neonáci politikai aktivitás nem része a szólásszabadságnak...”&lt;/q&gt;&lt;br/&gt;
+Mielőtt belekezdenék ezen mondat kritizálásába, érdemes tudni, hogy ezek a gyengeelméjük kit értenek neonácik alatt, mert ez sem egyértelmű náluk: Jobbik és holdudvara, néha Fidesz, véletlenül sem a tényleges neonácikat, akiknek tényleg nincs itt helyük.&lt;br/&gt;
+Folytassuk egy alapvető ténnyel: Magyarország jogállam, nézzük is meg a jogállamiság egyik legjobban hangoztatott, megfogalmazott ismérvét:&lt;br/&gt;
+&lt;strong&gt;A bíróságok és a törvény előtt minden ember egyenlő.&lt;/strong&gt;&lt;br/&gt;
+Hát ez nagyszerű. Összefoglalva, a fentebb tett kijelentés összeférhetetlen a jogállamisággal és a szabadelvűséggel is. A következő lépés az lesz, hogy aki 170 és 180 cm között van annak nincs joga az élethez?&lt;br/&gt;
+Jó tudni, hogy a sajtó- és szólásszabadságért küzdő egyesületnek ilyen nézetei vannak, konkrétan aki nem ért velük egyet azokra nem vonatkozik a sajtó- és szólásszabadság. Mi is ez? Ja, hogy az ami ellen küzdenek?&lt;br/&gt;
+A videó pedig az elején megismert „zenével” zárul, ahol is az izraeli ősökkel rendelkező, leszbikus Karsay Dorottya a következőt dalolja, nyilvánvalóan a sajtószabadságért szervezet nevében és tökéletesen ellentmondva ennek az egésznek, ismét egy pofátlan hazugság:&lt;br/&gt;
+&lt;q&gt;„Ha én egyszer elnök lennék, &lt;strong&gt;minden embert elfogadnék&lt;/strong&gt;. Tararariradarara…”&lt;/q&gt;&lt;br/&gt;
+Jó tudni. Dorikának üzenem, hogy Izraelben a közügyekbe idegen elemeknek, mint amilyen ő itt, semmilyen beleszólása nem lehet.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>A ZDF ismerteti az új „nemzeti hitvallást”</title>
+		<link href="http://vizimajom.github.io/kozelet/2012/01/07/a-zdf-ismerteti-az-uj-nemzeti-hitvallast/"/>
+		<updated>2012-01-07T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/kozelet/2012/01/07/a-zdf-ismerteti-az-uj-nemzeti-hitvallast</id>
+		<content type="html">&lt;p&gt;Hiába, úgy tűnik, a mai fiatalságot mi sem édekli jobban, mint az aktuális alkotmányjogi kérdések.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube-nocookie.com/embed/9wEjokJN3RU&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>FAIL</title>
+		<link href="http://vizimajom.github.io/tech/2011/10/15/fail/"/>
+		<updated>2011-10-15T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/tech/2011/10/15/fail</id>
+		<content type="html">&lt;p&gt;Ilyen ez az &lt;span class=&quot;athuzas&quot;&gt;IT&lt;/span&gt; divatipar:&lt;br/&gt;
+Elhunyt Steve Jobs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mindenki sír,&lt;/li&gt;
+&lt;li&gt;Ezernyi megemlékezés,&lt;/li&gt;
+&lt;li&gt;Steve Jobs imitátorok megszaporodása,&lt;/li&gt;
+&lt;li&gt;Steve Jobs fanok megszaporodása,&lt;/li&gt;
+&lt;li&gt;Steve Jobs elvont ábrázolása milliószor,&lt;/li&gt;
+&lt;li&gt;Mindenki mindent akar amihez még köze volt Steve Jobsnak,&lt;/li&gt;
+&lt;li&gt;Mindenért Steve Jobst magasztalni, azért is amihez nincs köze.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Elhunyt Dennis Ritchie:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;WTF???&lt;/li&gt;
+&lt;li&gt;Emmegki?&lt;/li&gt;
+&lt;li&gt;Oszt'akkó miva'?&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Holott az a nagy büdös tény, hogy nem tudnák milliók siratni Steve Jobs-t, ha nincs Dennis Ritchie.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Oldalak letiltása hostsal</title>
+		<link href="http://vizimajom.github.io/tech/2011/09/10/oldalak-letiltasa-hostsal/"/>
+		<updated>2011-09-10T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/tech/2011/09/10/oldalak-letiltasa-hostsal</id>
+		<content type="html">&lt;p&gt;A hosts állomány feladata a hostnevek IP címhez való társítása, ez egy egyszerű szöveges állomány, ami gyakorlatilag minden operációs rendszeren megtalálható, ennek segítségével akár weblapokat is le tudunk tiltani. A cikk feltételezi, hogy rendelkezel a rendszereden adminisztrátori jogosultságokkal.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+
+&lt;p&gt;&lt;strong&gt;OS X-en:&lt;/strong&gt;&lt;br/&gt;
+Nyiss egy Terminált,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ sudo nano /etc/hosts
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Linuxon:&lt;/strong&gt;&lt;br/&gt;
+Nyiss egy Terminált,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ sudo nano /etc/hosts vagy su -c &quot;nano /etc/hosts&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Azon belül Androidon:&lt;/strong&gt;&lt;br/&gt;
+Nyiss egy Terminált, ha gyárilag nincs, akkor szerezz.&lt;br/&gt;
+Ez a módszer csak abban az esetben működik, ha a ROM tartalmaz nanot, mint például a CyanogenMod, más szövegszerkesztővel felesleges próbálkozni, mert ha a pindúr pandúr nano ki van spórolva, akkor fix, hogy egy emacs sem fog bekerülni.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ su -c &quot;nano /etc/hosts&quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;strong&gt;Nanotlanul:&lt;/strong&gt;&lt;br/&gt;
+Másold ki a hosts fájlt egy SD kártyára, rakd át oda, ahol tudod szerkeszteni, szerkeszd meg, másold vissza.&lt;br/&gt;
+&lt;strong&gt;iOS:&lt;/strong&gt;&lt;br/&gt;
+Lásd „nanotlanul”&lt;br/&gt;
+&lt;strong&gt;Windows:&lt;/strong&gt;&lt;br/&gt;
+Változatlanul rendszergazdaként kell ténykedni, utána Total Commander, &lt;code&gt;x:\windows\system32\drivers\etc\hosts&lt;/code&gt; fájlra ráállsz, majd nyomsz egy F4-et.&lt;br/&gt;
+Itt még nincs vége XP esetében, mert hajlamos huncutkodni! Tiltsuk le a DNS ügyfél szolgáltatást:&lt;br/&gt;
+Vezérlőpult; Felügyeleti eszközök; Szolgáltatások; DNS ügyfél; jobb klikk; Tulajdonságok; Katt a leállításra, majd az indítási típusnál válaszd ki a &quot;Letiltva&quot; opciót.&lt;br/&gt;
+&lt;strong&gt;A hosts fájl felépítése&lt;/strong&gt;&lt;br/&gt;
+Alapesetben az enyém így néz ki:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ cat /etc/hosts
+127.0.0.1 localhost
+127.0.1.1 vizimajom (Gépnév, melyet módosítottam, lévén nem kívánom publikálni)
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;A számunkra releváns rész az elején van, ahol megvan adva, hogy a localhost az 127.0.0.1 című IP-re mutasson, tehát a helyi hálózatra. Gondolom innentől már sejteni lehet a lényeget.&lt;br/&gt;
+Ha hozzáadunk egy ilyen sort:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;127.0.0.1 valami.hu
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Akkor a valami.hu-t a rendszer a helyi hálózaton fogja keresni, amit természetesen nem fog meglelni, ennek eredményeként megkapjuk, hogy a keresett oldal nem található. Az IP-t és a letiltani kívánt oldal domain nevét legalább egy szóköz, vagy tabulátor válassza el, és minden külön bejegyzést külön sorba írj. Nagy meglepetésre pedig kettőskereszttel tudunk megjegyzéseket hozzáfűzni az állományhoz.&lt;br/&gt;
+Van lehetőség arra is, hogy faszagyerekeset játszunk és ne csak szimplán letiltsuk például a bing.com-ot, hanem ajánljunk helyette egy alternatívát. Jelen esetben a google.com-ot. Itt sem kell bonyolult dolgokra számítani, pingeljük meg azon oldal címét melyre szeretnénk átirányítani a delikvenst:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ ping google.com
+PING google.com (74.125.39.147) 56(84) bytes of data.
+64 bytes from fx-in-f147.1e100.net (74.125.39.147): icmp_req=1 ttl=54 time=18.9 ms
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Jelen példánál a második sorban lévő IP címre lesz szükség. Vigyük tovább a példát, adjuk hozzá a hostshoz:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;74.125.39.147 bing.com
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Innentől a bing.com a google.com-ra fog mutatni.&lt;br/&gt;
+AdBlockot is ki lehet váltani ezzel a módszerrel, ami azért érdemes, mert legalább nem redukálja a felére a sávszélességet és nem terheli a böngészőt. &lt;a href=&quot;http://someonewhocares.org/hosts/&quot; target=&quot;_blank&quot;&gt;Itt&lt;/a&gt; találtok egy gyönyörű „kis” listát.&lt;/p&gt;
+
+&lt;p&gt;Végezetül egy full-extrás facebook-blokk:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;127.0.0.1 facebook.com
+127.0.0.1 static.ak.fbcdn.net
+127.0.0.1 login.facebook.com
+127.0.0.1 fbcdn.net
+127.0.0.1 fbcdn.com
+127.0.0.1 static.ak.connect.facebook.com
+127.0.0.1 hu-hu.facebook.com
+127.0.0.1 blog.facebook.com
+127.0.0.1 apps.facebook.com
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Kettős mérce millióknál</title>
+		<link href="http://vizimajom.github.io/kozelet/2011/09/05/kettos-merce-millioknal/"/>
+		<updated>2011-09-05T00:00:00+00:00</updated>
+		<id>http://vizimajom.github.io/kozelet/2011/09/05/kettos-merce-millioknal</id>
+		<content type="html">&lt;p&gt;Bajnai Gordon 2009-ben közölte:&lt;br/&gt;
+Fájni fog - egy ország tüntetett&lt;/p&gt;
+
+&lt;p&gt;Orbán Viktor 2011-ben közölte:&lt;br/&gt;
+Küzdelmes ősz elé nézünk - egy ország tapsol&lt;/p&gt;
+
+&lt;p&gt;Platón, több mint ezer éve:&lt;br/&gt;
+A demokrácia a csőcselék uralma&lt;/p&gt;
+</content>
+	</entry>
+	
+
+</feed>

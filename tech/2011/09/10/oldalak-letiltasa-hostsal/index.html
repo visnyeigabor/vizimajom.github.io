@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="hu" itemscope itemtype="http://schema.org/Blog">
+	<head>
+		<meta charset="utf-8"/>
+		<title>Vízimajom[beta]</title>
+		<link rel="stylesheet" href="/css/style.css"/>
+		<link rel="alternate" type="application/atom+xml" href="atom.xml" title="Atom hírforrás">
+		<meta name="title" content="Oldalak letiltása hostsal"/>
+		<meta name="description" content="A hosts állomány feladata a hostnevek IP címhez való társítása, ez egy egyszerű szöveges állomány, ami gyakorlatilag minden operációs rendszeren megtalálható, ennek segítségével akár weblapokat is le tudunk tiltani. A cikk feltételezi, hogy rendelkezel a rendszereden adminisztrátori jogosultságokkal.
+"/>
+		<!--<link rel="image_src" href=""/>-->
+		<meta itemprop="name" content="Oldalak letiltása hostsal"/>
+		<meta itemprop="description" content="A hosts állomány feladata a hostnevek IP címhez való társítása, ez egy egyszerű szöveges állomány, ami gyakorlatilag minden operációs rendszeren megtalálható, ennek segítségével akár weblapokat is le tudunk tiltani. A cikk feltételezi, hogy rendelkezel a rendszereden adminisztrátori jogosultságokkal.
+"/>
+		<!--<meta itemprop="image" content=""/>-->
+	</head>
+	<body>
+		<!--[if lt IE 9]><p class="bongeszo">Szarul néz ki az oldal, eltaláltam? Gyakorlatilag a hányás kerülget tőle. Tisztázzuk azt, hogy ez azért van, mert vannak a böngészők és vannak a Internet Explorerek, te valószínűleg utóbbit használod. <a href="http://browsehappy.com/">Válts böngészőt, vagy frissíts egy újabb verzióra</a>, ha itt képzeled el a jövőd.</br>
+		Sok szerencsét, szia!</p><![endif]-->
+		<div id="tarolo">
+		<header>
+			<a href="http://vizimajom.github.io"><div class="fejlec"></div></a>
+		</header>
+		<nav>
+			<ul>
+				<li><a href="/">Főoldal</a></li>
+				<li><a href="/kapcsolat">Kapcsolat</a></li>
+				<li><a href="/gyik">FAQ</a></li>
+			</ul>
+		</nav>
+		<div class="clear"></div>
+
+		<div id="posttartalom">
+			<h2 class="postcim">Oldalak letiltása hostsal</h2>
+			<p>A hosts állomány feladata a hostnevek IP címhez való társítása, ez egy egyszerű szöveges állomány, ami gyakorlatilag minden operációs rendszeren megtalálható, ennek segítségével akár weblapokat is le tudunk tiltani. A cikk feltételezi, hogy rendelkezel a rendszereden adminisztrátori jogosultságokkal.</p>
+
+<!-- more -->
+
+
+<p><strong>OS X-en:</strong><br/>
+Nyiss egy Terminált,</p>
+
+<pre><code>$ sudo nano /etc/hosts
+</code></pre>
+
+<p><strong>Linuxon:</strong><br/>
+Nyiss egy Terminált,</p>
+
+<pre><code>$ sudo nano /etc/hosts vagy su -c "nano /etc/hosts"
+</code></pre>
+
+<p><strong>Azon belül Androidon:</strong><br/>
+Nyiss egy Terminált, ha gyárilag nincs, akkor szerezz.<br/>
+Ez a módszer csak abban az esetben működik, ha a ROM tartalmaz nanot, mint például a CyanogenMod, más szövegszerkesztővel felesleges próbálkozni, mert ha a pindúr pandúr nano ki van spórolva, akkor fix, hogy egy emacs sem fog bekerülni.</p>
+
+<pre><code>$ su -c "nano /etc/hosts"
+</code></pre>
+
+<p><strong>Nanotlanul:</strong><br/>
+Másold ki a hosts fájlt egy SD kártyára, rakd át oda, ahol tudod szerkeszteni, szerkeszd meg, másold vissza.<br/>
+<strong>iOS:</strong><br/>
+Lásd „nanotlanul”<br/>
+<strong>Windows:</strong><br/>
+Változatlanul rendszergazdaként kell ténykedni, utána Total Commander, <code>x:\windows\system32\drivers\etc\hosts</code> fájlra ráállsz, majd nyomsz egy F4-et.<br/>
+Itt még nincs vége XP esetében, mert hajlamos huncutkodni! Tiltsuk le a DNS ügyfél szolgáltatást:<br/>
+Vezérlőpult; Felügyeleti eszközök; Szolgáltatások; DNS ügyfél; jobb klikk; Tulajdonságok; Katt a leállításra, majd az indítási típusnál válaszd ki a "Letiltva" opciót.<br/>
+<strong>A hosts fájl felépítése</strong><br/>
+Alapesetben az enyém így néz ki:</p>
+
+<pre><code>$ cat /etc/hosts
+127.0.0.1 localhost
+127.0.1.1 vizimajom (Gépnév, melyet módosítottam, lévén nem kívánom publikálni)
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+</code></pre>
+
+<p>A számunkra releváns rész az elején van, ahol megvan adva, hogy a localhost az 127.0.0.1 című IP-re mutasson, tehát a helyi hálózatra. Gondolom innentől már sejteni lehet a lényeget.<br/>
+Ha hozzáadunk egy ilyen sort:</p>
+
+<pre><code>127.0.0.1 valami.hu
+</code></pre>
+
+<p>Akkor a valami.hu-t a rendszer a helyi hálózaton fogja keresni, amit természetesen nem fog meglelni, ennek eredményeként megkapjuk, hogy a keresett oldal nem található. Az IP-t és a letiltani kívánt oldal domain nevét legalább egy szóköz, vagy tabulátor válassza el, és minden külön bejegyzést külön sorba írj. Nagy meglepetésre pedig kettőskereszttel tudunk megjegyzéseket hozzáfűzni az állományhoz.<br/>
+Van lehetőség arra is, hogy faszagyerekeset játszunk és ne csak szimplán letiltsuk például a bing.com-ot, hanem ajánljunk helyette egy alternatívát. Jelen esetben a google.com-ot. Itt sem kell bonyolult dolgokra számítani, pingeljük meg azon oldal címét melyre szeretnénk átirányítani a delikvenst:</p>
+
+<pre><code>$ ping google.com
+PING google.com (74.125.39.147) 56(84) bytes of data.
+64 bytes from fx-in-f147.1e100.net (74.125.39.147): icmp_req=1 ttl=54 time=18.9 ms
+</code></pre>
+
+<p>Jelen példánál a második sorban lévő IP címre lesz szükség. Vigyük tovább a példát, adjuk hozzá a hostshoz:</p>
+
+<pre><code>74.125.39.147 bing.com
+</code></pre>
+
+<p>Innentől a bing.com a google.com-ra fog mutatni.<br/>
+AdBlockot is ki lehet váltani ezzel a módszerrel, ami azért érdemes, mert legalább nem redukálja a felére a sávszélességet és nem terheli a böngészőt. <a href="http://someonewhocares.org/hosts/" target="_blank">Itt</a> találtok egy gyönyörű „kis” listát.</p>
+
+<p>Végezetül egy full-extrás facebook-blokk:</p>
+
+<pre><code>127.0.0.1 facebook.com
+127.0.0.1 static.ak.fbcdn.net
+127.0.0.1 login.facebook.com
+127.0.0.1 fbcdn.net
+127.0.0.1 fbcdn.com
+127.0.0.1 static.ak.connect.facebook.com
+127.0.0.1 hu-hu.facebook.com
+127.0.0.1 blog.facebook.com
+127.0.0.1 apps.facebook.com
+</code></pre>
+
+		</div>
+		<footer>
+			&copy; 2005-2013 <a href="http://vizimajom.github.io">vizimajom.github.io</a>. Az oldal tartalmára a <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/deed.hu" target="_blank">Creative Commons Nevezd meg! - Ne add el! - Ne változtasd! 4.0</a> licenc vonatkozik; egyes esetekben eltérhet. Az oldal tartalmainak tárolásáért a <a href="https://www.github.com" target="_blank">GitHub</a> felel.
+		</footer>
+		<!-- Yandex.Metrika counter -->
+		<script type="text/javascript">
+		(function (d, w, c) {
+			(w[c] = w[c] || []).push(function() {
+				try {
+					w.yaCounter23002783 = new Ya.Metrika({id:23002783,
+							webvisor:true,
+							clickmap:true,
+							trackLinks:true,
+							accurateTrackBounce:true});
+				} catch(e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+				s = d.createElement("script"),
+				f = function () { n.parentNode.insertBefore(s, n); };
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+			if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else { f(); }
+		})(document, window, "yandex_metrika_callbacks");
+		</script>
+		<!-- /Yandex.Metrika counter -->
+	</body>
+</html>
+
